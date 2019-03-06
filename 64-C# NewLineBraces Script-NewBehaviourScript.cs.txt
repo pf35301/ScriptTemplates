@@ -1,0 +1,18 @@
+using UnityEngine;
+using System.Collections;
+
+namespace Name 
+{
+    public class #SCRIPTNAME# : MonoBehaviour 
+    {
+        void Start () 
+        {
+
+        }
+
+        void Update () 
+        {
+
+        }
+    }
+}
